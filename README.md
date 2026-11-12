@@ -15,3 +15,7 @@ omarchy theme install https://github.com/Isaiah-Jalsevac/omarchy-old-library-the
 - Foreground: aged paper (`#e6dccb`)
 - Accent: antique brass (`#c4a36a`)
 - Supporting accents: muted moss, slate, and subdued oxblood
+
+## Credits
+* https://wallpaperaccess.com/full/2862102.jpg
+* https://wallpaperaccess.com/full/5854742.jpg
