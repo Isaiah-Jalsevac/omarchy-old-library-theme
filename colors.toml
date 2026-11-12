@@ -1,0 +1,32 @@
+# Old Library — dark, warm, and easy on the eyes.
+mode = "dark"
+
+accent = "#c4a36a"
+selection = "#514536"
+muted = "#817968"
+
+background = "#1c1915"
+dark_background = "#15130f"
+darker_background = "#100e0b"
+lighter_background = "#302920"
+
+foreground = "#e6dccb"
+dark_foreground = "#968b78"
+light_foreground = "#c8baa2"
+bright_foreground = "#f3ebdc"
+
+red = "#b87561"
+yellow = "#c4a36a"
+orange = "#ce8d62"
+green = "#879477"
+cyan = "#9ba58a"
+blue = "#82969a"
+magenta = "#aa7d70"
+brown = "#76563e"
+
+bright_red = "#d28b73"
+bright_yellow = "#dfc184"
+bright_green = "#a8b593"
+bright_cyan = "#bdc5a8"
+bright_blue = "#a9bdc0"
+bright_magenta = "#c49a8b"
